@@ -1,4 +1,6 @@
-import api from "./api.js";
+//import api from "./api.js";
+
+
 
 const myCard = document.querySelector ("#myCard");
 
