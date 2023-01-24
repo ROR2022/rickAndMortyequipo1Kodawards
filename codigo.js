@@ -1,4 +1,5 @@
 console.log('hola desde MainPage:..');
+console.log('version casi definitiva...');
 
 import api from "./api.js";
 import { character } from "./card.js";
